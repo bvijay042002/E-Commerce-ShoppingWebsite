@@ -39,14 +39,10 @@ function App() {
 }
 
 export default App;
+
 git init
-
-git add .
-
+git add README.md
 git commit -m "first commit"
-
 git branch -M main
-
-git remote add origin https://github.com/segunajibola/sample-code.git
-
+git remote add origin https://github.com/bvijay042002/E-Commerce-ShoppingWebsite.git
 git push -u origin main
